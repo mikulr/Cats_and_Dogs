@@ -1,6 +1,8 @@
 ### Cat and Dogs and More
 
-(Originally, this was part of a group project to create a Mapping and Graphing tool to be be used for people looking to relocate.  What you are seeing here is a cleaned up version of our end product. You can find the original repo that I forked off of above.)
+[See the project live.](https://catsdogsandmore.herokuapp.com)
+
+(Originally, this was part of a group project to create a Mapping and Graphing tool to be used for people looking to relocate.  What you are seeing here is a cleaned up version of our end product. You can find the original repo that I forked off of [here](https://github.com/ClareSpecht/Project3).)
 
 We started with the idea of ranking and mapping states that had more dogs or cats, and how that might impact where someone might choose to live. (Team dog here.) We expanded our state data set to include several other factors that may influence where someone might choose to live:
     - happiness 
